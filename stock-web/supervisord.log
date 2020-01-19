@@ -1,0 +1,40 @@
+2020-01-19 14:21:45,161 CRIT Supervisor running as root (no user in config file)
+2020-01-19 14:21:45,162 INFO supervisord started with pid 12928
+2020-01-19 14:21:46,164 INFO spawned: 'uwsgi' with pid 12931
+2020-01-19 14:21:57,143 INFO success: uwsgi entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2020-01-19 14:23:17,607 WARN received SIGINT indicating exit request
+2020-01-19 14:23:17,632 INFO waiting for uwsgi to die
+2020-01-19 14:23:21,631 INFO waiting for uwsgi to die
+2020-01-19 14:23:24,634 INFO waiting for uwsgi to die
+2020-01-19 14:23:27,636 WARN killing 'uwsgi' (12931) with SIGKILL
+2020-01-19 14:23:27,636 INFO waiting for uwsgi to die
+2020-01-19 14:23:27,667 INFO stopped: uwsgi (terminated by SIGKILL)
+2020-01-19 14:24:36,727 CRIT Supervisor running as root (no user in config file)
+2020-01-19 14:24:36,739 INFO supervisord started with pid 12958
+2020-01-19 14:24:37,741 INFO spawned: 'uwsgi' with pid 12961
+2020-01-19 14:24:47,934 INFO success: uwsgi entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2020-01-19 14:24:48,946 WARN received SIGINT indicating exit request
+2020-01-19 14:24:48,954 INFO waiting for uwsgi to die
+2020-01-19 14:24:52,900 INFO waiting for uwsgi to die
+2020-01-19 14:24:55,901 INFO waiting for uwsgi to die
+2020-01-19 14:24:58,904 INFO waiting for uwsgi to die
+2020-01-19 14:24:59,904 WARN killing 'uwsgi' (12961) with SIGKILL
+2020-01-19 14:24:59,916 INFO stopped: uwsgi (terminated by SIGKILL)
+2020-01-19 14:26:17,711 CRIT Supervisor running as root (no user in config file)
+2020-01-19 14:26:17,716 INFO daemonizing the supervisord process
+2020-01-19 14:26:17,716 INFO supervisord started with pid 12993
+2020-01-19 14:26:18,719 INFO spawned: 'uwsgi' with pid 12994
+2020-01-19 14:26:29,327 INFO success: uwsgi entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2020-01-19 14:44:51,184 WARN received SIGTERM indicating exit request
+2020-01-19 14:44:51,185 INFO waiting for uwsgi to die
+2020-01-19 14:44:54,404 INFO waiting for uwsgi to die
+2020-01-19 14:44:57,406 INFO waiting for uwsgi to die
+2020-01-19 14:44:58,501 CRIT Supervisor running as root (no user in config file)
+2020-01-19 14:44:58,567 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-01-19 14:45:00,408 INFO waiting for uwsgi to die
+2020-01-19 14:45:01,408 WARN killing 'uwsgi' (12994) with SIGKILL
+2020-01-19 14:45:01,432 INFO stopped: uwsgi (terminated by SIGKILL)
+2020-01-19 15:06:21,179 CRIT Supervisor running as root (no user in config file)
+2020-01-19 15:06:21,265 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-01-19 15:17:24,273 CRIT Supervisor running as root (no user in config file)
+2020-01-19 15:17:24,317 CRIT Server 'unix_http_server' running without any HTTP authentication checking

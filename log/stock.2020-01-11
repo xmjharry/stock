@@ -1,0 +1,9 @@
+2020-01-09 18:00:20,478 - daily_market.py[line:174] - INFO: 方法：get_daily_quotation_data，插入2020-01-09数据成功
+2020-01-10 18:00:11,114 - daily_market.py[line:77] - INFO: 方法：get_daily_index_data，获取2020-01-10数据成功
+2020-01-10 18:00:14,839 - daily_market.py[line:101] - INFO: 方法：get_daily_index_data，插入2020-01-10数据成功
+2020-01-10 18:00:16,692 - daily_market.py[line:150] - INFO: 方法：get_daily_quotation_data，获取2020-01-10数据成功
+2020-01-10 18:00:19,733 - daily_market.py[line:174] - INFO: 方法：get_daily_quotation_data，插入2020-01-10数据成功
+2020-01-11 18:00:10,372 - daily_market.py[line:77] - INFO: 方法：get_daily_index_data，获取2020-01-11数据成功
+2020-01-11 18:00:10,373 - daily_market.py[line:103] - INFO: 2020-01-11数据为空
+2020-01-11 18:00:10,801 - daily_market.py[line:150] - INFO: 方法：get_daily_quotation_data，获取2020-01-11数据成功
+2020-01-11 18:00:10,801 - daily_market.py[line:176] - INFO: 2020-01-11数据为空
