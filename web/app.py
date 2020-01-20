@@ -1,6 +1,4 @@
 from random import randrange
-from daily_market import DailyIndex, DailyQuotation
-
 from flask import Flask, render_template
 
 from pyecharts import options as opts
