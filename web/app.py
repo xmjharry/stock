@@ -1,4 +1,5 @@
 from random import randrange
+from daily_market import DailyIndex
 
 from flask import Flask, render_template
 

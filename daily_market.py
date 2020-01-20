@@ -1,23 +1,16 @@
-import random
-from faker import Factory
 import argparse
-from sqlalchemy import create_engine, Table
+from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy import ForeignKey
-from sqlalchemy import Column, String, Integer, Text, Date, DECIMAL
-from sqlalchemy.orm import sessionmaker, relationship
+from sqlalchemy import Column, String, Integer, Date, DECIMAL
+from sqlalchemy.orm import sessionmaker
 import datetime
-import os
 import tushare as ts
 from dateutil.parser import parse
 import decimal
-import time
 import pandas as pd
-import numpy as np
-import sys
 from tqdm import tqdm
 from collections.abc import Iterable
-import logger
+from log import logger
 import inspect
 import ifttt
 

@@ -1,4 +1,0 @@
-2020-01-19 14:21:45,161 CRIT Supervisor running as root (no user in config file)
-2020-01-19 14:21:45,162 INFO supervisord started with pid 12928
-2020-01-19 14:21:46,164 INFO spawned: 'uwsgi' with pid 12931
-2020-01-19 14:21:57,143 INFO success: uwsgi entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
