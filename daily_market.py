@@ -10,7 +10,7 @@ import decimal
 import pandas as pd
 from tqdm import tqdm
 from collections.abc import Iterable
-from log import logger
+import logger
 import inspect
 import ifttt
 
