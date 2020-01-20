@@ -19,7 +19,7 @@ Base = declarative_base()
 TOKEN = '04beaad46e3ff10b1970c6c3c8d729e87cf7d92ecb86f2c9d1574b4a'
 ts.set_token(TOKEN)
 pro = ts.pro_api()
-log = logger.Logger('./stock', level='info')
+log = logger.Logger('./log/stock', level='info')
 
 
 class DailyIndex(Base):

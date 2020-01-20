@@ -1,8 +1,10 @@
 from random import randrange
 from flask import Flask, render_template
-
 from pyecharts import options as opts
 from pyecharts.charts import Bar
+import sys
+sys.path.append('.')
+from daily_market import DailyIndex
 
 app = Flask(__name__, static_folder="templates")
 
