@@ -108,4 +108,5 @@ venv.bak/
 
 ./web/*.log
 web/stock
-web/supervisord.pid
+web/supervisord.pi
+/log
